@@ -1,0 +1,7 @@
+SPACEFIELD WEBSITE v3.0 LC3 — LOGO CORRECTION
+
+1. Header and footer use assets/img/spacefield-logo-master.png directly.
+2. Computational Universe embeds the complete assets/img/spacefield-mark-master.png as a base64 image inside its SVG.
+3. The centre mark therefore renders both from local file:// previews and after web deployment.
+4. Header height and image constraints were revised to prevent clipping.
+5. The failed externally linked nested SVG implementation is no longer used.

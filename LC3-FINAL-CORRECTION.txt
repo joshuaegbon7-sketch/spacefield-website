@@ -1,0 +1,14 @@
+SPACEFIELD WEBSITE v3.0 — LC3 FINAL CORRECTION
+
+Baseline: Website v3.0 LC3 FINAL
+Purpose: Correct the failed LC3 Revision A logo implementation without redesigning the website.
+
+Corrections:
+1. Header remains the approved LC3 full-colour horizontal logo.
+2. Computational Universe uses assets/img/spacefield-mark.svg, the matching official monogram.
+3. Central white disc reduced from radius 92 to 68.
+4. Central cyan orbit reduced from radius 102 to 82.
+5. Embedded raster logo removed from Computational Universe.
+6. Footer uses the approved full-colour horizontal logo on a white brand panel; no destructive CSS colour filter.
+
+Status: FINAL CORRECTED BUILD.

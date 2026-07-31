@@ -1,0 +1,14 @@
+SPACEFIELD BRAND v1.0 — FROZEN
+
+Includes:
+- Approved Logo Master system
+- Website v3.0 LC3
+- Spacefield Computational Universe v2
+- Colour system
+- Inter-based typography system
+- Geometric icon system
+- Website design language
+- Company voice
+- UI components
+
+Future website changes are content updates only: Zenodo DOIs, journal publications, releases, benchmarks, news and platform modules.

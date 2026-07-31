@@ -1,0 +1,12 @@
+SPACEFIELD WEBSITE v3.0 LC3 — FINAL LOGO LOCKUP
+
+The Computational Universe retains the approved standalone S/T mark.
+The header and footer retain the approved horizontal corporate lockup.
+Both are derived from the same approved brand family and are now rendered at controlled, non-clipping dimensions.
+
+Corrections:
+- Removed conflicting historical logo CSS overrides.
+- Header lockup limited to 390 px / 74 px maximum height.
+- Footer lockup limited to 410 px with a restrained white brand panel.
+- Responsive sizing standardised for desktop, tablet and mobile.
+- No filters, clipping paths or forced distortion.

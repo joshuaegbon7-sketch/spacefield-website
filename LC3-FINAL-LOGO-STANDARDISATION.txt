@@ -1,0 +1,9 @@
+Spacefield Website v3.0 LC3 — Final Logo Standardisation
+Date: 30 July 2026
+
+Corrections:
+- Computational Universe retained with the fully rendered official S/T mark.
+- Header and footer now use the same complete master horizontal logo asset.
+- All clipping, max-height restrictions, filters and destructive rendering rules removed.
+- Header and footer logo dimensions adjusted to preserve the natural 711:185 aspect ratio.
+- Responsive logo scaling retained for desktop, tablet and mobile.

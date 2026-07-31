@@ -1,0 +1,13 @@
+{
+  "name": "Spacefield Transformation Technologies",
+  "short_name": "Spacefield",
+  "description": "Advanced computational technologies for molecular science.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0A2342",
+  "icons": [
+    {"src":"assets/img/app-icon.png","sizes":"512x512","type":"image/png"},
+    {"src":"assets/img/apple-touch-icon.png","sizes":"180x180","type":"image/png"}
+  ]
+}
